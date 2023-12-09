@@ -1,7 +1,7 @@
      apex.server.process ('MY_PROCESS', {
              x01: '123'
             ,x02: '456'
-            , pageItems: "#P3_PARAM"     
+            , pageItems: "#P1_PARAM"     
             },{
                 success: function( pData ){
                     /*****************************************/
